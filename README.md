@@ -17,6 +17,10 @@ To detect early signs of potential churn, one must first develop a holistic view
 - Analysing the data in terms of various features responsible for customer Churn
 - Finding a most suited machine learning model for correct classification of Churn and non churn customers.
 
+## Workflow:
+- Data Collection ----> EDA -----> Data Preprocessing -----> Train test split -----> ML Models
+- Unknown data ----> Best Trained model ----> Prediction
+  
 ## Dataset:
  [Customer Churn](https://www.kaggle.com/bhartiprasad17/customer-churn-prediction/data)
 
