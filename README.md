@@ -67,7 +67,7 @@ We could use Hyperparamete Tuning or Feature enginnering methods to improve the 
 
 ### Feedback
 
-If you have any feedback, please reach out at pradnyapatil671@gmail.com
+If you have any feedback, please reach out at shejoleprem01@gmail.com
 
 
 
